@@ -1,0 +1,4 @@
+JFrame frame= new JFrame("Frame Example");
+		frame.setSize(400,400);
+		frame.setLayout(null);
+		frame.setVisible(true);
